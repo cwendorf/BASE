@@ -1,3 +1,1 @@
-# EASE
-
-## Estimation Approach to Statistics with Excel
+# EASE: Estimation Approach to Statistics with Excel
