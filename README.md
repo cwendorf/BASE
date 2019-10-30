@@ -1,7 +1,7 @@
-# Basic Analytical Statistics with Excel
+# BASE: Basic Analytical Statistics with Excel
 
 ## Course Calculators
 
-## Relational Intervals
+## ARISE: Arelational and Relational Interval Statistics in Excel
 
-## Estimation Approach
+## EASE: Estimation Approach to Statistics with Excel
