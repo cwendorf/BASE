@@ -1,1 +1,1 @@
-# EASE: Estimation Approach to Statistics with Excel
+# BASE: Basic Analytical Statistics with Excel
