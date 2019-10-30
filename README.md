@@ -1,7 +1,13 @@
 # BASE: Basic Analytical Statistics with Excel
 
-## CREATE: Course R E A T with Excel
+## CREATE: Course Resource for Editing and Analyzing Tutorials with Excel
+
+
 
 ## ARISE: Arelational and Relational Interval Statistics with Excel
 
+
+
 ## EASE: Estimation Approach to Statistics with Excel
+
+
