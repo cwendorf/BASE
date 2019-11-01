@@ -30,4 +30,4 @@ The **EASE(S)-Repeated** module is appropriate for a one-way (single factor) wit
 
 ## How to Cite
 
-Wendorf, C. A. (2016). _EASE: Estimation Approach to Statistics with Excel._ Software available via GitHub at https://github.com/cwendorf/BASE/tree/master/EASE.
+Wendorf, C. A. (2016). EASE: Estimation Approach to Statistics with Excel [Excel Spreadsheet]. Retreived from https://github.com/cwendorf/BASE/tree/master/EASE.
