@@ -10,13 +10,13 @@
 
 The **CREATE(D)-AllDesigns** module is appropriate for a all simple research designs with raw data input.
 
-- [**_CREATE(D)-AllDesigns.xlsx_**](./CREATE(D)-AllDesigns.xlsx) is a blank version of the module.
-- [**_CREATE(D)-AllDesigns-Tutorial.xlsx_**](./CREATE(D)-AllDesigns-Wendorf.xlsx) analyses tutorial raw data.
+- [**_CREATE(D)-AllDesigns.xlsx_**](https://github.com/cwendorf/BASE/raw/master/CREATE/CREATE(D)-AllDesigns.xlsx) is a blank version of the module.
+- [**_CREATE(D)-AllDesigns-Tutorial.xlsx_**](https://github.com/cwendorf/BASE/raw/master/CREATE/CREATE(D)-AllDesigns-Tutorial.xlsx) analyses tutorial raw data.
 
 The **CREATE(S)-AllDesigns** module is appropriate for a all simple research designs with summary statistics input.
 
-- [**_CREATE(S)-AllDesigns.xlsx_**](./CREATE(S)-AllDesigns.xlsx) is a blank version of the module.
-- [**_CREATE(S)-AllDesigns-Tutorial.xlsx_**](./CREATE(S)-AllDesigns-Wendorf.xlsx) analyses tutorial summary statistics.
+- [**_CREATE(S)-AllDesigns.xlsx_**](https://github.com/cwendorf/BASE/raw/master/CREATE/CREATE(S)-AllDesigns.xlsx) is a blank version of the module.
+- [**_CREATE(S)-AllDesigns-Tutorial.xlsx_**](https://github.com/cwendorf/BASE/raw/master/CREATE/CREATE(S)-AllDesigns-Tutorial.xlsx) analyses tutorial summary statistics.
 
 ## How to Cite
 

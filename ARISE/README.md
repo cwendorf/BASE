@@ -10,13 +10,13 @@
 
 The **ARISE(D)-OneWay** module is appropriate for a one-way (single factor) between-subjects design with raw data input.
 
-- [**_ARISE(D)-OneWay.xlsx_**](./ARISE(D)-OneWay.xlsx) is a blank version of the module.
-- [**_ARISE(D)-OneWay-Wendorf.xlsx_**](./ARISE(D)-OneWay-Wendorf.xlsx) analyses raw data from Wendorf (2012).
+- [**_ARISE(D)-OneWay.xlsx_**](https://github.com/cwendorf/BASE/raw/master/ARISE/ARISE(D)-OneWay.xlsx) is a blank version of the module.
+- [**_ARISE(D)-OneWay-Wendorf.xlsx_**](https://github.com/cwendorf/BASE/raw/master/ARISE/ARISE(D)-OneWay-Wendorf.xlsx) analyses raw data from Wendorf (2012).
 
 The **ARISE(D)-Repeated** module is appropriate for a one-way (single factor) within-subjects design with raw data input.
 
-- [**_ARISE(D)-Repeated.xlsx_**](./ARISE(D)-Repeated.xlsx) is a blank version of the module.
-- [**_ARISE(D)-Repeated-Wendorf.xlsx_**](./ARISE(D)-Repeated-Wendorf.xlsx) analyses raw data adapted from Wendorf (2012).
+- [**_ARISE(D)-Repeated.xlsx_**](https://github.com/cwendorf/BASE/raw/master/ARISE/ARISE(D)-Repeated.xlsx) is a blank version of the module.
+- [**_ARISE(D)-Repeated-Wendorf.xlsx_**](https://github.com/cwendorf/BASE/raw/master/ARISE/ARISE(D)-Repeated-Wendorf.xlsx) analyses raw data adapted from Wendorf (2012).
 
 ## How to Cite
 

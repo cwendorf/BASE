@@ -10,23 +10,23 @@
 
 The **EASE(D)-OneWay** module is appropriate for a one-way (single factor) between-subjects design with raw data input.
 
-- [**_EASE(D)-OneWay.xlsx_**](./EASE(D)-OneWay.xlsx) is a blank version of the module.
-- [**_EASE(D)-OneWay-Rattan.xlsx_**](./EASE(D)-OneWay-Wendorf.xlsx) analyses raw data from Rattan (2012).
+- [**_EASE(D)-OneWay.xlsx_**](https://github.com/cwendorf/BASE/raw/master/EASE/EASE(D)-OneWay.xlsx) is a blank version of the module.
+- [**_EASE(D)-OneWay-Rattan.xlsx_**](https://github.com/cwendorf/BASE/raw/master/EASE/EASE(D)-Rattan.xlsx) analyses raw data from Rattan (2012).
 
 The **EASE(S)-OneWay** module is appropriate for a one-way (single factor) between-subjects design with summary statistics input.
 
-- [**_EASE(S)-OneWay.xlsx_**](./EASE(S)-OneWay.xlsx) is a blank version of the module.
-- [**_EASE(S)-OneWay-Rattan.xlsx_**](./EASE(S)-OneWay-Wendorf.xlsx) analyses summary statistics from Rattan (2012).
+- [**_EASE(S)-OneWay.xlsx_**](https://github.com/cwendorf/BASE/raw/master/EASE/EASE(S)-OneWay.xlsx) is a blank version of the module.
+- [**_EASE(S)-OneWay-Rattan.xlsx_**](https://github.com/cwendorf/BASE/raw/master/EASE/EASE(S)-OneWay-Rattan.xlsx) analyses summary statistics from Rattan (2012).
 
 The **EASE(D)-Repeated** module is appropriate for a one-way (single factor) within-subjects design with raw data input.
 
-- [**_EASE(D)-Repeated.xlsx_**](./EASE(D)-Repeated.xlsx) is a blank version of the module.
-- [**_EASE(D)-Repeated-Donohue.xlsx_**](./EASE(D)-Repeated-Donohue.xlsx) analyses raw data from Donohue (2002).
+- [**_EASE(D)-Repeated.xlsx_**](https://github.com/cwendorf/BASE/raw/master/EASE/EASE(D)-Repeated.xlsx) is a blank version of the module.
+- [**_EASE(D)-Repeated-Donohue.xlsx_**](https://github.com/cwendorf/BASE/raw/master/EASE/EASE(D)-Repeated-Donohue.xlsx) analyses raw data from Donohue (2002).
 
 The **EASE(S)-Repeated** module is appropriate for a one-way (single factor) within-subjects design with summary statistics input.
 
-- [**_EASE(S)-Repeated.xlsx_**](./EASE(S)-Repeated.xlsx) is a blank version of the module.
-- [**_EASE(S)-Repeated-Donohue.xlsx_**](./EASE(S)-Repeated-Donohue.xlsx) analyses summary statistics from Donohue (2002).
+- [**_EASE(S)-Repeated.xlsx_**](https://github.com/cwendorf/BASE/raw/master/EASE/EASE(S)-Repeated.xlsx) is a blank version of the module.
+- [**_EASE(S)-Repeated-Donohue.xlsx_**](https://github.com/cwendorf/BASE/raw/master/EASE/EASE(S)-Repeated-Donohue.xlsx) analyses summary statistics from Donohue (2002).
 
 ## How to Cite
 
