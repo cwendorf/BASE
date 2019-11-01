@@ -11,7 +11,7 @@
 The **EASE(D)-OneWay** module is appropriate for a one-way (single factor) between-subjects design with raw data input.
 
 - [**_EASE(D)-OneWay.xlsx_**](https://github.com/cwendorf/BASE/raw/master/EASE/EASE(D)-OneWay.xlsx) is a blank version of the module.
-- [**_EASE(D)-OneWay-Rattan.xlsx_**](https://github.com/cwendorf/BASE/raw/master/EASE/EASE(D)-Rattan.xlsx) analyses raw data from Rattan (2012).
+- [**_EASE(D)-OneWay-Rattan.xlsx_**](https://github.com/cwendorf/BASE/raw/master/EASE/EASE(D)-OneWay-Rattan.xlsx) analyses raw data from Rattan (2012).
 
 The **EASE(S)-OneWay** module is appropriate for a one-way (single factor) between-subjects design with summary statistics input.
 
