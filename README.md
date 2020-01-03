@@ -1,4 +1,4 @@
-# BASE: Basic Analytical Statistics with Excel
+# Basic Analytical Statistics with Excel
 
 ## CREATE: Course Resource for Editing and Analyzing Tutorials with Excel
 
