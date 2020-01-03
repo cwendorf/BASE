@@ -1,6 +1,6 @@
 # CREATE: Course Resource for Editing and Analyzing Tutorials with Excel
 
-## Overivew
+## OvervIew
 
 <img src="CREATE.jpg" alt="CREATE" align="right" style="padding: 0px 0px 20px 20px;">
 
@@ -10,14 +10,14 @@
 
 The **CREATE(D)-AllDesigns** module is appropriate for a all simple research designs with raw data input.
 
-- [**_CREATE(D)-AllDesigns.xlsx_**](https://github.com/cwendorf/BASE/raw/master/CREATE/CREATE(D)-AllDesigns.xlsx) is a blank version of the module.
-- [**_CREATE(D)-AllDesigns-Tutorial.xlsx_**](https://github.com/cwendorf/BASE/raw/master/CREATE/CREATE(D)-AllDesigns-Tutorial.xlsx) analyses tutorial raw data.
+- [**_CREATE(D)-AllDesigns.xlsx_**](./CREATE(D)-AllDesigns.xlsx) is a blank version of the module.
+- [**_CREATE(D)-AllDesigns-Tutorial.xlsx_**](./CREATE(D)-AllDesigns-Tutorial.xlsx) analyses tutorial raw data.
 
 The **CREATE(S)-AllDesigns** module is appropriate for a all simple research designs with summary statistics input.
 
-- [**_CREATE(S)-AllDesigns.xlsx_**](https://github.com/cwendorf/BASE/raw/master/CREATE/CREATE(S)-AllDesigns.xlsx) is a blank version of the module.
-- [**_CREATE(S)-AllDesigns-Tutorial.xlsx_**](https://github.com/cwendorf/BASE/raw/master/CREATE/CREATE(S)-AllDesigns-Tutorial.xlsx) analyses tutorial summary statistics.
+- [**_CREATE(S)-AllDesigns.xlsx_**](./CREATE(S)-AllDesigns.xlsx) is a blank version of the module.
+- [**_CREATE(S)-AllDesigns-Tutorial.xlsx_**](./CREATE(S)-AllDesigns-Tutorial.xlsx) analyses tutorial summary statistics.
 
 ## How to Cite
 
-Wendorf, C. A. (2012). _CREATE: Course Resource for Editing and Analyzing Tutorials with Excel_ [Excel Spreadsheets]. https://github.com/cwendorf/BASE/tree/master/CREATE/.
+Wendorf, C. A. (2012). _CREATE: Course Resource for Editing and Analyzing Tutorials with Excel_ [Excel Spreadsheets]. [https://cwendorf.github.io/BASE/CREATE](https://cwendorf.github.io/BASE/CREATE)
