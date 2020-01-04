@@ -6,7 +6,7 @@
 
 > Wendorf, C. A. (2012). _CREATE: Course Resource for Editing and Analyzing Tutorials with Excel_ [Excel Spreadsheets]. [https://cwendorf.github.io/BASE/CREATE](./CREATE)
 
-![CREATE Screenshot](./CREATE/CREATE.jpg)
+<kbd><img src="CREATE/CREATE.jpg" align="center"></kbd>
 
 ## ARISE: Arelational and Relational Interval Statistics with Excel
 
@@ -14,7 +14,7 @@
 
 > Wendorf, C. A. (2014). _ARISE: Arelational and Relational Interval Statistics with Excel_ [Excel Spreadsheets].  [https://cwendorf.github.io/BASE/ARISE](./ARISE)
 
-![ARISE Screenshot](./ARISE/ARISE.jpg)
+<kbd><img src="ARISE/ARISE.jpg" align="center"></kbd>
 
 ## EASE: Estimation Approach to Statistics with Excel
 
@@ -22,4 +22,4 @@
 
 > Wendorf, C. A. (2016). _EASE: Estimation Approach to Statistics with Excel_ [Excel Spreadsheets]. [https://cwendorf.github.io/BASE/EASE](./EASE)
 
-![EASE Screenshot](./EASE/EASE.jpg)
+<kbd><img src="EASE/EASE.jpg" align="center"></kbd>
