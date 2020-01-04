@@ -1,6 +1,6 @@
 # CREATE: Course Resource for Editing and Analyzing Tutorials with Excel
 
-## OvervIew
+## Overview
 
 <img src="CREATE.jpg" alt="CREATE" align="right" style="padding: 0px 0px 20px 20px;">
 
