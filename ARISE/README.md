@@ -2,7 +2,7 @@
 
 ## Overview
 
-<img src="ARISE.jpg" alt="ARISE" align="right" style="padding: 0px 0px 20px 20px;">
+![ARISE Screenshot](ARISE.jpg)
 
 **ARISE** is a set of simple Excel spreadsheets that provide real-time calculations and graph of both relational and arelational confidence intervals for means using raw data input. These statistics are not readily available in other statistics packages. It also provides null hypothesis significance tests for pairwise comparisons.
 
@@ -20,4 +20,4 @@ The **ARISE(D)-Repeated** module is appropriate for a one-way (single factor) wi
 
 ## How to Cite
 
-Wendorf, C. A. (2014). _ARISE: Arelational and Relational Interval Statistics with Excel_ [Excel Spreadsheets]. [https://cwendorf.github.io/BASE/ARISE](https://cwendorf.github.io/BASE/ARISE)
+Wendorf, C. A. (2014). _ARISE: Arelational and Relational Interval Statistics with Excel_ [Excel Spreadsheets]. [https://cwendorf.github.io/BASE/ARISE](../ARISE)
