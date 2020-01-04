@@ -6,7 +6,7 @@
 
 > Wendorf, C. A. (2012). _CREATE: Course Resource for Editing and Analyzing Tutorials with Excel_ [Excel Spreadsheets]. [https://cwendorf.github.io/BASE/CREATE](./CREATE)
 
-<kbd align="center"><img src="CREATE/CREATE.jpg"></kbd>
+<p align="center"><kbd><img src="CREATE/CREATE.jpg"></kbd></p>
 
 ## ARISE: Arelational and Relational Interval Statistics with Excel
 
