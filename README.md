@@ -6,7 +6,7 @@
 
 **CREATE** is a set of simple Excel spreadsheets that provide real-time calculations of basic statistics in traditional approaches to data analyses. It is appropriate for small data sets (such as course tutorials) and all simple research designs (such as one sample, paired samples, independent samples, one way, repeated measure, and factorial designs). Separate spreadsheets are available for raw data and summary statistics input.
 
-> Wendorf, C. A. (2012). _CREATE: Course Resource for Editing and Analyzing Tutorials with Excel_ [Excel Spreadsheets]. GitHub. [https://cwendorf.github.io/BASE/CREATE](./CREATE)
+> Wendorf, C. A. (2012). _CREATE: Course Resource for Editing and Analyzing Tutorials with Excel_ [Excel Spreadsheets]. [https://cwendorf.github.io/BASE/CREATE](./CREATE)
 
 ## ARISE: Arelational and Relational Interval Statistics with Excel
 
@@ -14,7 +14,7 @@
 
 **ARISE** is a set of simple Excel spreadsheets that provide real-time calculations and graph of both relational and arelational confidence intervals for means using raw data input. These statistics are not readily available in other statistics packages. It also provides null hypothesis significance tests for pairwise comparisons.
 
-> Wendorf, C. A. (2014). _ARISE: Arelational and Relational Interval Statistics with Excel_ [Excel Spreadsheets]. GitHub. [https://cwendorf.github.io/BASE/ARISE](./ARISE)
+> Wendorf, C. A. (2014). _ARISE: Arelational and Relational Interval Statistics with Excel_ [Excel Spreadsheets].  [https://cwendorf.github.io/BASE/ARISE](./ARISE)
 
 ## EASE: Estimation Approach to Statistics with Excel
 
