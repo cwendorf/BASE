@@ -4,7 +4,7 @@
 
 **CREATE** is a set of simple Excel spreadsheets that provide real-time calculations of basic statistics in traditional approaches to data analyses. It is appropriate for small data sets (such as course tutorials) and all simple research designs (such as one sample, paired samples, independent samples, one way, repeated measure, and factorial designs). Separate spreadsheets are available for raw data and summary statistics input.
 
-<kbd><img src="CREATE.jpg" align="center"></kbd>
+<p align="center"><kbd><img src="CREATE.jpg"></kbd></p>
 
 ## Included Spreadsheets and Examples
 

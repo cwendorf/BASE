@@ -14,7 +14,7 @@
 
 > Wendorf, C. A. (2014). _ARISE: Arelational and Relational Interval Statistics with Excel_ [Excel Spreadsheets].  [https://cwendorf.github.io/BASE/ARISE](./ARISE)
 
-<kbd><img src="ARISE/ARISE.jpg" align="center"></kbd>
+<p align="center"><kbd><img src="ARISE/ARISE.jpg"></kbd></p>
 
 ## EASE: Estimation Approach to Statistics with Excel
 
@@ -22,4 +22,4 @@
 
 > Wendorf, C. A. (2016). _EASE: Estimation Approach to Statistics with Excel_ [Excel Spreadsheets]. [https://cwendorf.github.io/BASE/EASE](./EASE)
 
-<kbd><img src="EASE/EASE.jpg" align="center"></kbd>
+<p align="center"><kbd><img src="EASE/EASE.jpg"></kbd></p>
