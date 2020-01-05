@@ -1,6 +1,6 @@
 # Basic Analytical Statistics with Excel
 
-CREATE | ARISE | EASE
+[CREATE](./CREATE) | [ARISE](./ARISE) | [EASE](./EASE)
 
 ---
 
