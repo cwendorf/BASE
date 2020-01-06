@@ -1,4 +1,4 @@
-# CREATE: 
+# CREATE 
 
 Course Resource for Editing and Analyzing Tutorials with Excel
 
