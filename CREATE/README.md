@@ -1,6 +1,6 @@
-# CREATE 
+# Basic Analytical Statistics with Excel
 
-### Course Resource for Editing and Analyzing Tutorials with Excel
+### CREATE: Course Resource for Editing and Analyzing Tutorials with Excel
 
 ---
 
