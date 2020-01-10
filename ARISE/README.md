@@ -1,6 +1,6 @@
-# Basic Analytical Statistics with Excel
+# ARISE: Arelational and Relational Interval Statistics with Excel
 
-### ARISE: Arelational and Relational Interval Statistics with Excel
+A set of modules in Basic Analytic Statistics with Excel (BASE)
 
 ---
 
