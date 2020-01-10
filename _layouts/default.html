@@ -8,12 +8,13 @@
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <style>
-      .markdown-body h1 {border-bottom: 0px solid #eaecef; color: #006400; margin: 0px;}
+      .markdown-body h1 {border-bottom: 0px solid #eaecef; color: #441a77; margin: 0px;}
       div.custom {background: #ddd; width: 100%;}
-      div#header {font-weight: bold; font-size: 1.20em; padding: 15px 0px 5px 0px;}
+      div#header {padding: 15px 0px;}
       div#footer {padding: 15px 0px;}
-      div#nav {float: right; }
-      #logo {background: none; height: 50px;}
+      div#site {float: left; }
+      div#nav {float: right; font-weight: bold; font-size: 1.1em; padding: 10px 0px 10px 10px;}
+      img#logo {display: inline-block; vertical-align: middle; background: none; height: 50px; padding: 0px; }
     </style>
     
   </head>
@@ -23,7 +24,7 @@
     <div class="custom">
     <div id=header class="container-lg px-3 markdown-body">
             
-      <div style="float:left;">
+      <div id=site>
       {% if site.title and site.title != page.title %}
         <a href="{{ "/" | absolute_url }}" style="text-decoration: none;">
           <img id=logo src="{{ "/logo.png" | prepend: site.baseurl }}" alt="{{ site.title }}">
