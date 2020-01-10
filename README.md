@@ -1,5 +1,6 @@
 # Basic Analytical Statistics with Excel
 
+**MODULES:** 
 [**CREATE**](./CREATE) | 
 [**ARISE**](./ARISE) | 
 [**EASE**](./EASE)
