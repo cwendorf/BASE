@@ -1,6 +1,6 @@
 # EASE: Estimation Approach to Statistics with Excel
 
-A set of modules in Basic Analytic Statistics with Excel (BASE)
+**A set of modules in Basic Analytic Statistics with Excel (BASE)**
 
 ---
 
