@@ -1,6 +1,6 @@
 # Basic Analytical Statistics with Excel
 
-**Sets of Excel Spreadsheets for Creating and Analyzing Data**
+**Excel Spreadsheets for Creating and Analyzing Data Sets**
 
 ---
 
