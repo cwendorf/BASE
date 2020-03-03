@@ -1,8 +1,4 @@
-# CREATE: Course Resource for Editing and Analyzing Tutorials with Excel
-
-**A set of modules in Basic Analytic Statistics with Excel (BASE)**
-
----
+## CREATE: Course Resource for Editing and Analyzing Tutorials with Excel
 
 ### Overview
 

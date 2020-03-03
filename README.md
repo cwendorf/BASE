@@ -1,9 +1,6 @@
 # Basic Analytical Statistics with Excel
 
-**MODULES:** 
-[**CREATE**](./CREATE) | 
-[**ARISE**](./ARISE) | 
-[**EASE**](./EASE)
+**Sets of Excel Spreadsheets for Creating and Analyzing Data**
 
 ---
 
