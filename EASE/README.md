@@ -6,9 +6,7 @@
 
 > Wendorf, C. A. (2016). _EASE: Estimation Approach to Statistics with Excel_ [Excel Spreadsheets]. [https://cwendorf.github.io/BASE/EASE](../EASE)
 
-<a href="https://cwendorf.github.io/BASE/EASE">
 <p align="center"><kbd><img src="EASE.jpg"></kbd></p>
-</a>
 
 ### Included Spreadsheets and Examples
 
