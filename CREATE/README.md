@@ -6,9 +6,7 @@
 
 > Wendorf, C. A. (2012). _CREATE: Course Resource for Editing and Analyzing Tutorials with Excel_ [Excel Spreadsheets]. [https://cwendorf.github.io/BASE/CREATE](../CREATE)
 
-<a href="[https://cwendorf.github.io/BASE/CREATE">
 <p align="center"><kbd><img src="CREATE.jpg"></kbd></p>
-</a>
 
 ### Included Spreadsheets and Examples
 
