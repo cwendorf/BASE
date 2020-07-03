@@ -6,7 +6,7 @@
 
 > Wendorf, C. A. (2014). _ARISE: Arelational and Relational Interval Statistics with Excel_ [Excel Spreadsheets]. [https://cwendorf.github.io/BASE/ARISE](../ARISE)
 
-<a href="https://cwendorf.github.io/BASE/ARISE"><p align="center"><kbd><img src="ARISE.jpg"></kbd></p></a>
+[<p align="center"><kbd><img src="ARISE.jpg"></kbd></p>](https://cwendorf.github.io/BASE/ARISE)
 
 ### Included Spreadsheets and Examples
 
