@@ -1,6 +1,8 @@
 # Basic Analytical Statistics with Excel
 
-**Excel Spreadsheets for Creating and Analyzing Data Sets**
+## Excel Spreadsheets for Creating and Analyzing Data Sets
+
+**Summary:** BASE is a collection of Excel spreadsheets that provide real-time calculations and graphs of statistics in three categories: traditional approaches to data analyses (CREATE), arelational and relational intervals for single-factor designs (ARISE), and basic estimation statistics (EASE). Depending on the purpose of the spreadsheet and analysis, they accept raw data and summary statistics input and are available for most basic research designs. Taken together, these resources provide a simple -- yet quite effective -- system that can be used in any typical introductory statistics course. 
 
 ---
 
