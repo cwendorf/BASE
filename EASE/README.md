@@ -6,7 +6,7 @@
 
 <p align="center"><kbd><img src="EASE.jpg"></kbd></p>
 
-### Included Spreadsheets and Examples
+### Materials
 
 The **EASE(D)-OneWay** module is appropriate for a one-way (single factor) between-subjects design with raw data input.
 
@@ -30,4 +30,4 @@ The **EASE(S)-Repeated** module is appropriate for a one-way (single factor) wit
 
 ### Citation
 
-> Wendorf, C. A. (2016). _EASE: Estimation Approach to Statistics with Excel_ [Excel Spreadsheets]. [https://cwendorf.github.io/BASE/EASE](../EASE)
+Wendorf, C. A. (2016). _EASE: Estimation Approach to Statistics with Excel_ [Excel Spreadsheets]. [https://cwendorf.github.io/BASE/EASE](../EASE)

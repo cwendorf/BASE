@@ -2,7 +2,7 @@
 
 # Basic Analytical Statistics with Excel
 
-## Excel Spreadsheets for Creating and Analyzing Data Sets
+## Spreadsheets for Creating and Analyzing Data Sets
 
 ### CREATE: Course Resource for Editing and Analyzing Tutorials with Excel
 
