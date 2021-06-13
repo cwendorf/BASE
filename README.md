@@ -20,7 +20,7 @@
 
 ### EASE: Estimation Approach to Statistics with Excel
 
-[**EASE**](https://cwendorf.github.io/BASE/EASE) is a set of simple Excel spreadsheets that provide real-time calculations of estimation statistics. These spreadsheets calculate, test, and plot confidence intervals for means, mean comparisons, and standardized effect sizes. Functions and examples are available for different single-factor designs (between-subjects vs. within-subjects) and can take either raw data or summary statistics as input. 
+[**EASE**](https://cwendorf.github.io/BASE/EASE) is a set of simple Excel spreadsheets that provide real-time calculations of estimation statistics. These spreadsheets calculate, test, and plot confidence intervals for means, mean comparisons, and standardized effect sizes. Spreadsheets and examples are available for different single-factor designs (between-subjects vs. within-subjects) and can take either raw data or summary statistics as input. 
 
 > Wendorf, C. A. (2016). *EASE: Estimation Approach to Statistics with Excel* [Excel Spreadsheets]. [https://cwendorf.github.io/BASE/EASE](https://cwendorf.github.io/BASE/EASE)
 
