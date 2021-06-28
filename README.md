@@ -10,6 +10,14 @@
 
 <p align="center"><kbd><img src="CREATE/CREATE.jpg"></kbd></p>
 
+### CRUDE: Course Resource for Understanding Distributions with Excel
+
+[**CRUDE**](https://cwendorf.github.io/BASE/CRUDE) is a simple Excel spreadsheet that display common statistical distributions and identifies important values of the distributions. It accepts either score input (to find percentiles ranks and p values) or percentile rank input (to find critical values). It is useful for visually representing these values as part of a course in basic statistics.
+
+> Wendorf, C. A. (2012). _CRUDE: Course Resource for Understanding Distributions with Excel_ [Excel Spreadsheets]. [https://cwendorf.github.io/BASE/CRUDE](https://cwendorf.github.io/BASE/CRUDE)
+
+<p align="center"><kbd><img src="CRUDE/CRUDE.jpg"></kbd></p>
+
 ### ARISE: Arelational and Relational Interval Statistics with Excel
 
 [**ARISE**](https://cwendorf.github.io/BASE/ARISE) is a set of simple Excel spreadsheets that provide real-time calculations and graph of both relational and arelational confidence intervals for means using raw data input. These statistics are not readily available in other statistics packages. It also provides null hypothesis significance tests for pairwise comparisons.
