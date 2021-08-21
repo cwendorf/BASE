@@ -1,3 +1,7 @@
+<a href="https://cwendorf.github.io/BASE/">
+<img src="logo.png" height="60px;" align="left;" style="display: none;">
+</a>
+
 # Basic Analytical Statistics with Excel
 
 ## Spreadsheets for Creating and Analyzing Data Sets
