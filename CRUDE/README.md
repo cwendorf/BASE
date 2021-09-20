@@ -10,8 +10,8 @@
 
 The **CRUDE-AllDistributions** module is appropriate for all basic distributions with score or percentile rank input.
 
-- [_CRUDE-AllDistributions.xlsx_](./CRUDE-AllDistributions.xlsx) is a blank version of the module.
-- [_CRUDE-AllDistributions-Examples.xlsx_](./CRUDE-AllDistributions-Examples.xlsx) provides simple examples for each distribution.
+- [*CRUDE-AllDistributions.xlsx*](./CRUDE-AllDistributions.xlsx) - A blank version of the module
+- [*CRUDE-AllDistributions-Examples.xlsx*](./CRUDE-AllDistributions-Examples.xlsx) - Simple examples for each distribution
 
 ### Citation
 

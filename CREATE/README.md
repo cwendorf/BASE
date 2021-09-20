@@ -10,13 +10,13 @@
 
 The **CREATE(D)-AllDesigns** module is appropriate for all simple research designs with raw data input.
 
-- [_CREATE(D)-AllDesigns.xlsx_](./CREATE(D)-AllDesigns.xlsx) is a blank version of the module.
-- [_CREATE(D)-AllDesigns-Tutorial.xlsx_](./CREATE(D)-AllDesigns-Tutorial.xlsx) analyses tutorial raw data.
+- [*CREATE(D)-AllDesigns.xlsx*](./CREATE(D)-AllDesigns.xlsx) - A blank version of the module
+- [*CREATE(D)-AllDesigns-Tutorial.xlsx*](./CREATE(D)-AllDesigns-Tutorial.xlsx) - Analyses tutorial raw data
 
 The **CREATE(S)-AllDesigns** module is appropriate for all simple research designs with summary statistics input.
 
-- [_CREATE(S)-AllDesigns.xlsx_](./CREATE(S)-AllDesigns.xlsx) is a blank version of the module.
-- [_CREATE(S)-AllDesigns-Tutorial.xlsx_](./CREATE(S)-AllDesigns-Tutorial.xlsx) analyses tutorial summary statistics.
+- [*CREATE(S)-AllDesigns.xlsx*](./CREATE(S)-AllDesigns.xlsx) - A blank version of the module
+- [*CREATE(S)-AllDesigns-Tutorial.xlsx*](./CREATE(S)-AllDesigns-Tutorial.xlsx) - Analyses tutorial summary statistics
 
 ### Citation
 
