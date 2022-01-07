@@ -1,6 +1,6 @@
-# Basic Analytical Statistics with Excel
+# BASE
 
-## Spreadsheets for Creating and Analyzing Data Sets
+## Basic Analytical Statistics with Excel
 
 ### CRUDE: Course Resource for Understanding Distributions with Excel
 
