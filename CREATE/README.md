@@ -18,6 +18,11 @@ The **CREATE(S)-AllDesigns** module is appropriate for all simple research desig
 - [*CREATE(S)-AllDesigns.xlsx*](./CREATE(S)-AllDesigns.xlsx) - A blank version of the module
 - [*CREATE(S)-AllDesigns-Tutorial.xlsx*](./CREATE(S)-AllDesigns-Tutorial.xlsx) - Analyses tutorial summary statistics
 
+### Contact Me
+ 
+- Author Email: [cwendorf@uwsp.edu](mailto:cwendorf@uwsp.edu)
+- Author Homepage: [https://cwendorf.github.io](https://cwendorf.github.io)
+
 ### Citation
 
 Wendorf, C. A. (2012). _CREATE: Course Resource for Editing and Analyzing Tutorials with Excel_ [Excel Spreadsheets]. [https://github.com/cwendorf/BASE/CREATE](../CREATE)
