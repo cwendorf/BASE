@@ -20,4 +20,4 @@ The **ARISE(D)-Repeated** module is appropriate for a one-way (single factor) wi
 
 ### Citation
 
-Wendorf, C. A. (2014). _ARISE: Arelational and Relational Interval Statistics with Excel_ [Excel Spreadsheets]. [https://cwendorf.github.io/BASE/ARISE](../ARISE)
+Wendorf, C. A. (2014). _ARISE: Arelational and Relational Interval Statistics with Excel_ [Excel Spreadsheets]. [https://github.com/cwendorf/BASE/ARISE](../ARISE)
