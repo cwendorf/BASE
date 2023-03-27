@@ -1,4 +1,4 @@
-## ARISE: Arelational and Relational Interval Statistics with Excel
+## `ARISE` | Arelational and Relational Interval Statistics with Excel
 
 ### Overview
 

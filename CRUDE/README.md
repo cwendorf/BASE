@@ -1,4 +1,4 @@
-## CRUDE: Course Resource for Understanding Distributions with Excel
+## `CRUDE` | Course Resource for Understanding Distributions with Excel
 
 ### Overview
 
