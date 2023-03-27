@@ -1,6 +1,4 @@
 
-# Basic Analytical Statistics with Excel
-
 ## `CRUDE` | Course Resource for Understanding Distributions with Excel
 
 [**CRUDE**](./CRUDE) is a simple Excel spreadsheet that displays common statistical distributions and identifies important values of the distributions. It accepts either score input (to find percentiles ranks and p values) or percentile rank input (to find critical values). It is useful for visually representing these values as part of a course in basic statistics.
