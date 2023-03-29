@@ -33,6 +33,8 @@
 
 ## `GREAT` | Grading and Embedded Assessment Tool
 
-[**GREAT**](../GREAT) is a set of tools that offer a strategy for embedding educational assessment into the existing graded assignments for a course. Taken together, these resources provide a simple, yet quite effective, system for assessment reporting.
+[**GREAT**](./GREAT) is a set of tools that offer a strategy for embedding educational assessment into the existing graded assignments for a course. Taken together, these resources provide a simple, yet quite effective, system for assessment reporting.
+
+> Wendorf, C. A. (2021). *GREAT: Grading and Embedded Assessment Tool* [Excel Spreadsheets]. [https://github.com/cwendorf/BASE/tree/main/GREAT](./GREAT)
 
 <p align="center"><kbd><img src="GREAT/GREAT.jpg"></kbd></p>
