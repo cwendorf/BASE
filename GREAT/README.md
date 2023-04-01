@@ -15,11 +15,6 @@ The **GREAT-Repeated** module is appropriate for all repeated measures embedded 
 - [*GREAT-Repeated.xlsx*](./GREAT-Repeated.xlsx) - A blank version of the module
 - [*GREAT-Repeated-Example.xlsx*](./GREAT-Repeated-Example.xlsx) - Simple analyses and graphs for a hypothetical statistics assessment
 
-### Contact Me
- 
-- Author Email: [cwendorf@uwsp.edu](mailto:cwendorf@uwsp.edu)
-- Author Homepage: [https://cwendorf.github.io](https://cwendorf.github.io)
-
 ### Citation
 
 Wendorf, C. A. (2021). _GREAT: Grading and Embedded Assessment Tool_ [Excel Spreadsheets]. [https://github.com/cwendorf/BASE/tree/main/GREAT](../GREAT)

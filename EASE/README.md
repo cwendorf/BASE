@@ -28,11 +28,6 @@ The **EASE(S)-Repeated** module is appropriate for a one-way (single factor) wit
 - [*EASE(S)-Repeated.xlsx*](./EASE(S)-Repeated.xlsx) - A blank version of the module
 - [*EASE(S)-Repeated-Donohue.xlsx*](./EASE(S)-Repeated-Donohue.xlsx) - Analyses summary statistics from Donohue (2002)
 
-### Contact Me
- 
-- Author Email: [cwendorf@uwsp.edu](mailto:cwendorf@uwsp.edu)
-- Author Homepage: [https://cwendorf.github.io](https://cwendorf.github.io)
-
 ### Citation
 
 Wendorf, C. A. (2021). _EASE: Estimation Approach to Statistics with Excel_ [Excel Spreadsheets]. [https://github.com/cwendorf/BASE/tree/main/EASE](../EASE)
