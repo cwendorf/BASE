@@ -10,7 +10,7 @@
 
 ### Materials
 
-[*A Methodology for Embedded Assessment*](./Wendorf-EmbeddedAssessmentMethodology.pdf) describes how a repeated measures research design is appropriate to embedded assessment, yet describes the difference in analytical strategy. This is a _must read_ prior to using the GREAT spreadsheet.
+[*A Methodology for Embedded Assessment*](./Wendorf-EmbeddedAssessmentMethodology.pdf) describes how a repeated measures research design is appropriate to embedded assessment, yet describes the difference in analytical strategy. This is a *must read* prior to using the GREAT spreadsheet.
 
 The **GREAT-Repeated** module is appropriate for all repeated measures embedded assessments.
 
@@ -19,4 +19,4 @@ The **GREAT-Repeated** module is appropriate for all repeated measures embedded 
 
 ### Citation
 
-Wendorf, C. A. (2021). _GREAT: Grading and Embedded Assessment Tool_ [Excel Spreadsheets]. [https://github.com/cwendorf/BASE/tree/main/GREAT](../GREAT)
+Wendorf, C. A. (2021). *GREAT: Grading and Embedded Assessment Tool* [Excel Spreadsheets]. [https://github.com/cwendorf/BASE/tree/main/GREAT](../GREAT)

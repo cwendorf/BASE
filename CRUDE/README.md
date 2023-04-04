@@ -17,4 +17,4 @@ The **CRUDE-AllDistributions** module is appropriate for all basic distributions
 
 ### Citation
 
-Wendorf, C. A. (2021). _CRUDE: Course Resource for Understanding Distributions with Excel_ [Excel Spreadsheets]. [https://github.com/cwendorf/BASE/tree/main/CRUDE](../CRUDE)
+Wendorf, C. A. (2021). *CRUDE: Course Resource for Understanding Distributions with Excel* [Excel Spreadsheets]. [https://github.com/cwendorf/BASE/tree/main/CRUDE](../CRUDE)
