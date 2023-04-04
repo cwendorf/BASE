@@ -1,4 +1,6 @@
-## `GREAT` | Grading and Embedded Assessment Tool
+# `GREAT` 
+
+## Grading and Embedded Assessment Tool
 
 ### Overview
 

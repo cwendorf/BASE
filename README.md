@@ -1,5 +1,7 @@
 
-# `BASE` | Basic Analytical Statistics with Excel
+# `BASE` 
+
+## Basic Analytical Statistics with Excel
 
 ### Overview
 
