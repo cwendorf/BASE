@@ -20,4 +20,4 @@
 ### Contact Me
  
 - Author Email: [cwendorf@uwsp.edu](mailto:cwendorf@uwsp.edu)
-- Author Homepage: [https://www.uwsp.edu/directory/profile/craig-wendorf/](https://www.uwsp.edu/directory/profile/craig-wendorf/)
+- Author Homepage: [https://github.com/cwendorf](https://github.com/cwendorf)
