@@ -10,7 +10,7 @@
 
 ### Materials
 
-[*A Methodology for Embedded Assessment*](./Wendorf-EmbeddedAssessmentMethodology.pdf) describes how a repeated measures research design is appropriate to embedded assessment, yet describes the difference in analytical strategy. This is a *must read* prior to using the GREAT spreadsheet.
+[*A Methodology for Embedded Assessment*](./EmbeddedAssessmentMethodology.md) describes how a repeated measures research design is appropriate to embedded assessment, yet describes the difference in analytical strategy. This is a *must read* prior to using the GREAT spreadsheet.
 
 The **GREAT-Repeated** module is appropriate for all repeated measures embedded assessments.
 
