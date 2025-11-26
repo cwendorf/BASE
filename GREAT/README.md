@@ -6,7 +6,7 @@
 
 [**GREAT**](../GREAT) is a set of tools that offer a strategy for embedding educational assessment into the existing graded assignments for a course. Taken together, these resources provide a simple, yet quite effective, system for assessment reporting.
 
-<p align="center"><kbd><img src="GREAT.jpg"></kbd></p>
+![Screenshot of the GREAT spreadsheet](./GREAT.jpg)
 
 ### Materials
 

@@ -8,6 +8,8 @@
 
 <p align="center"><kbd><img src="CRUDE.jpg"></kbd></p>
 
+![Screenshot of the CRUDE spreadsheet](./CRUDE.jpg)
+
 ### Materials
 
 The **CRUDE-AllDistributions** module is appropriate for all basic distributions with score or percentile rank input.

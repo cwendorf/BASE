@@ -6,7 +6,7 @@
 
 [**ARISE**](../ARISE) is a set of simple Excel spreadsheets that provide real-time calculations and graph of both relational and arelational confidence intervals for means using raw data input. These statistics are not readily available in other statistics packages. It also provides null hypothesis significance tests for pairwise comparisons.
 
-<p align="center"><kbd><img src="ARISE.jpg"></kbd></p>
+![Screenshot of the ARISE spreadsheet](./ARISE.jpg)
 
 ### Materials
 
