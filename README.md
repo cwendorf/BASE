@@ -17,7 +17,7 @@
 - [**EASE: Estimation Approach to Statistics with Excel**](./EASE) - Calculate, test, and plot confidence intervals for means, mean comparisons, and standardized effect sizes
 - [**GREAT: Grading and Embedded Assessment Tool**](./GREAT) - Strategy for embedding educational assessment into the existing graded assignments for a course
 
-### Contact Me
+### Contact
  
 - Author Email: [cwendorf@uwsp.edu](mailto:cwendorf@uwsp.edu)
 - Author Homepage: [https://github.com/cwendorf](https://github.com/cwendorf)
