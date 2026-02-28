@@ -12,13 +12,13 @@
 
 The **ARISE(D)-OneWay** module is appropriate for a one-way (single factor) between-subjects design with raw data input.
 
-- [*ARISE(D)-OneWay.xlsx*](./ARISE(D)-OneWay.xlsx) - A blank version of the module
-- [*ARISE(D)-OneWay-Wendorf.xlsx*](./ARISE(D)-OneWay-Wendorf.xlsx) - Analyzes raw data from Wendorf (2012)
+- [*ARISE(D)-OneWay.xlsx*](./ARISE(D)-OneWay.xlsx): A blank version of the module
+- [*ARISE(D)-OneWay-Wendorf.xlsx*](./ARISE(D)-OneWay-Wendorf.xlsx): Analyzes raw data from Wendorf (2012)
 
 The **ARISE(D)-Repeated** module is appropriate for a one-way (single factor) within-subjects design with raw data input.
 
-- [*ARISE(D)-Repeated.xlsx*](./ARISE(D)-Repeated.xlsx) - A blank version of the module
-- [*ARISE(D)-Repeated-Wendorf.xlsx*](./ARISE(D)-Repeated-Wendorf.xlsx) - Analyzes raw data adapted from Wendorf (2012)
+- [*ARISE(D)-Repeated.xlsx*](./ARISE(D)-Repeated.xlsx): A blank version of the module
+- [*ARISE(D)-Repeated-Wendorf.xlsx*](./ARISE(D)-Repeated-Wendorf.xlsx): Analyzes raw data adapted from Wendorf (2012)
 
 ### Citation
 

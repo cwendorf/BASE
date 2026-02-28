@@ -14,8 +14,8 @@
 
 The **GREAT-Repeated** module is appropriate for all repeated measures embedded assessments.
 
-- [*GREAT-Repeated.xlsx*](./GREAT-Repeated.xlsx) - A blank version of the module
-- [*GREAT-Repeated-Example.xlsx*](./GREAT-Repeated-Example.xlsx) - Simple analyses and graphs for a hypothetical statistics assessment
+- [*GREAT-Repeated.xlsx*](./GREAT-Repeated.xlsx): A blank version of the module
+- [*GREAT-Repeated-Example.xlsx*](./GREAT-Repeated-Example.xlsx): Simple analyses and graphs for a hypothetical statistics assessment
 
 ### Citation
 

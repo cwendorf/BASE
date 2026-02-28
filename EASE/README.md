@@ -12,23 +12,23 @@
 
 The **EASE(D)-OneWay** module is appropriate for a one-way (single factor) between-subjects design with raw data input.
 
-- [*EASE(D)-OneWay.xlsx*](./EASE(D)-OneWay.xlsx) - A blank version of the module
-- [*EASE(D)-OneWay-Rattan.xlsx*](./EASE(D)-OneWay-Rattan.xlsx) - Analyses raw data from Rattan (2012)
+- [*EASE(D)-OneWay.xlsx*](./EASE(D)-OneWay.xlsx): A blank version of the module
+- [*EASE(D)-OneWay-Rattan.xlsx*](./EASE(D)-OneWay-Rattan.xlsx): Analyses raw data from Rattan (2012)
 
 The **EASE(S)-OneWay** module is appropriate for a one-way (single factor) between-subjects design with summary statistics input.
 
-- [*EASE(S)-OneWay.xlsx*](./EASE(S)-OneWay.xlsx) - A blank version of the module
-- [*EASE(S)-OneWay-Rattan.xlsx*](./EASE(S)-OneWay-Rattan.xlsx) - Analyses summary statistics from Rattan (2012)
+- [*EASE(S)-OneWay.xlsx*](./EASE(S)-OneWay.xlsx): A blank version of the module
+- [*EASE(S)-OneWay-Rattan.xlsx*](./EASE(S)-OneWay-Rattan.xlsx): Analyses summary statistics from Rattan (2012)
 
 The **EASE(D)-Repeated** module is appropriate for a one-way (single factor) within-subjects design with raw data input.
 
-- [*EASE(D)-Repeated.xlsx*](./EASE(D)-Repeated.xlsx) - A blank version of the module
-- [*EASE(D)-Repeated-Donohue.xlsx*](./EASE(D)-Repeated-Donohue.xlsx) - Analyses raw data from Donohue (2002)
+- [*EASE(D)-Repeated.xlsx*](./EASE(D)-Repeated.xlsx): A blank version of the module
+- [*EASE(D)-Repeated-Donohue.xlsx*](./EASE(D)-Repeated-Donohue.xlsx): Analyses raw data from Donohue (2002)
 
 The **EASE(S)-Repeated** module is appropriate for a one-way (single factor) within-subjects design with summary statistics input.
 
-- [*EASE(S)-Repeated.xlsx*](./EASE(S)-Repeated.xlsx) - A blank version of the module
-- [*EASE(S)-Repeated-Donohue.xlsx*](./EASE(S)-Repeated-Donohue.xlsx) - Analyses summary statistics from Donohue (2002)
+- [*EASE(S)-Repeated.xlsx*](./EASE(S)-Repeated.xlsx): A blank version of the module
+- [*EASE(S)-Repeated-Donohue.xlsx*](./EASE(S)-Repeated-Donohue.xlsx): Analyses summary statistics from Donohue (2002)
 
 ### Citation
 
