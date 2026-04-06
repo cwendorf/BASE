@@ -1,10 +1,10 @@
-# `GREAT` 
+# [`BASE`](https://github.com/cwendorf/BASE)
 
-## Grading and Embedded Assessment Tool
+## GREAT: Grading and Embedded Assessment Tool
 
 ### Overview
 
-[**GREAT**](../GREAT) is a set of tools that offer a strategy for embedding educational assessment into the existing graded assignments for a course. Taken together, these resources provide a simple, yet quite effective, system for assessment reporting.
+`GREAT` is a set of tools that offer a strategy for embedding educational assessment into the existing graded assignments for a course. Taken together, these resources provide a simple, yet quite effective, system for assessment reporting.
 
 ![Screenshot of the GREAT spreadsheet](./GREAT.jpg)
 

@@ -1,10 +1,10 @@
-# `CRUDE` 
+# [`BASE`](https://github.com/cwendorf/BASE)
 
-## Course Resource for Understanding Distributions with Excel
+## CRUDE: Course Resource for Understanding Distributions with Excel
 
 ### Overview
 
-[**CRUDE**](../CRUDE) is a simple Excel spreadsheet that displays common statistical distributions and identifies important values of the distributions. It accepts either score input (to find percentiles ranks and p values) or percentile rank input (to find critical values). It is useful for visually representing these values as part of a course in basic statistics.
+`CRUDE` is a simple Excel spreadsheet that displays common statistical distributions and identifies important values of the distributions. It accepts either score input (to find percentiles ranks and p values) or percentile rank input (to find critical values). It is useful for visually representing these values as part of a course in basic statistics.
 
 ![Screenshot of the CRUDE spreadsheet](./CRUDE.jpg)
 
