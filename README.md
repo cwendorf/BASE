@@ -2,7 +2,7 @@
 
 ## Basic Analytical Statistics with Excel
 
-[![GitHub Release](https://img.shields.io/github/v/release/cwendorf/backcalc?style=for-the-badge)](https://github.com/cwendorf/backcalc/releases/latest)
+[![GitHub Release](https://img.shields.io/github/v/release/cwendorf/BASE?style=for-the-badge)](https://github.com/cwendorf/BASE/releases/latest)
 [![Project Status](https://img.shields.io/badge/Status-Inactive-orange?style=for-the-badge)](https://www.repostatus.org/#inactive)
 
 ### Overview
