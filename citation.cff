@@ -4,10 +4,5 @@ title: "BASE: Basic Analytical Statistics with Excel"
 authors:
   - family-names: "Wendorf"
     given-names: "Craig A."
+date-released: "2024-10-27"
 url: "https://github.com/cwendorf/BASE"
-repository-code: "https://github.com/cwendorf/BASE"
-license: "MIT"
-abstract: >-
-  A collection of Excel spreadsheets that provide real-time calculations and
-  graphs of statistics for educational use, introductory statistics courses,
-  and basic data analyses.
