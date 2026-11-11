@@ -2,6 +2,9 @@
 
 ## Basic Analytical Statistics with Excel
 
+[![GitHub Release](https://img.shields.io/github/v/release/cwendorf/backcalc?style=for-the-badge)](https://github.com/cwendorf/backcalc/releases/latest)
+[![Project Status](https://img.shields.io/badge/Status-Inactive-orange?style=for-the-badge)](https://www.repostatus.org/#inactive)
+
 ### Overview
 
 `BASE` a collection of Excel spreadsheets that provide real-time calculations and graphs of statistics for educational use. Taken together, these resources provide a simple -- yet quite effective -- system that can be used in any typical introductory statistics course and for basic data analyses.
