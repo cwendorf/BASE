@@ -7,7 +7,7 @@
 
 ### Overview
 
-`BASE` a collection of Excel spreadsheets that provide real-time calculations and graphs of statistics for educational use. Taken together, these resources provide a simple -- yet quite effective -- system that can be used in any typical introductory statistics course and for basic data analyses.
+`BASE` is a collection of Excel spreadsheets that provide real-time calculations and graphs of statistics for educational use. Taken together, these resources provide a simple -- yet quite effective -- system that can be used in any typical introductory statistics course and for basic data analyses.
 
 ![Screenshot of the EASE spreadsheet](./EASE/EASE.jpg)
 
